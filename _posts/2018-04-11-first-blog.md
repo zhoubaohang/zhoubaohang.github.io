@@ -11,7 +11,7 @@ description: 来呀，快活呀。
 
 *人生中第一篇正式博客*
 
-![avatar](..\img\2018-04-11-img.jpg)
+![avatar](https://github.com/zhoubaohang/zhoubaohang.github.io/blob/master/img/2018-04-11-img.jpg)
 
 18年4月上旬的一个晚上，终于决定写博客了。平时看见其他大牛的博客，汲取了很多营养。虽然平时做的都是一些微小的工作，但还是想记录一下，自己是如何一步步入坑的 ：）
 
