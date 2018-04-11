@@ -9,6 +9,7 @@ url: "https://zhoubaohang.github.io"  # 此处填写你的博客地址
 # Sidebar settings
 sidebar: true                           # 是否开启侧边栏.
 sidebar-about-description: "emmmmmmm ......."
+sidebar-avatar: img/head.jpg      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
