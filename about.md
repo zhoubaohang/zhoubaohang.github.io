@@ -13,6 +13,8 @@ header-img: "img/green.jpg"
 
 欢迎交流~
 
+[Intro.pdf](/pdf/resume.pdf)
+
 
 
 
