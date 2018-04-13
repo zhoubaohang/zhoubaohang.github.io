@@ -13,7 +13,9 @@ header-img: "img/green.jpg"
 
 欢迎交流~
 
+[个人简历](/resume/resume.html)
 [Resume.pdf](/docs/resume.pdf)
+
 
 
 
