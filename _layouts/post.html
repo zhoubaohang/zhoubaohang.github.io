@@ -88,12 +88,11 @@ layout: default
                 </div>
                 <!-- Duoshuo Share end-->
 
-
-                <!-- 多说评论框 start -->
-                <div class="comment">
-                    <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}{{page.url}}"></div>
-                </div>
-                <!-- 多说评论框 end -->
+                <!-- intense debate start -->
+                {% if site.intensedebate_comments %}
+                      {% include intensedebate-comments.html %}
+                {% endif %}
+                <!-- intense debate end -->
             </div>
         </div>
     </div>
@@ -149,7 +148,3 @@ var duoshuoQuery = {short_name:"cnfeat"};
         }
     }
 </style>
-
-{% if site.intensedebate_comments %}
-      {% include intensedebate-comments.html %}
-{% endif %}
