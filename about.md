@@ -1,19 +1,17 @@
 ---
 layout: page
 title: "About"
-description: "来了就多看几眼" 
+description: "About me" 
 header-img: "img/green.jpg"
 ---
 
-### 严重声明 :)
+I graduated from [Jiangnan University](http://www.jiangnan.edu.cn/) with a bachelor's degree.
 
-本人于2019年本科毕业于[江南大学](http://www.jiangnan.edu.cn/)，现于[南开大学数据库与信息系统(DBIS)研究室](http://dbis.nankai.edu.cn/index)攻读硕士学位。
+Now I am studying for a master's degree in [Nankai University Database and Information System (DBIS) labrotary](http://dbis.nankai.edu.cn/index).
 
-研究方向主要为：自然语言处理（NLP）、生成式对抗网络（GAN）、时序数据填充。
+Research interests include natural language processing (NLP), active learning, generative adversarial networks and time series data imputation.
 
-平时只是做些微小的工作，喜欢code，也喜欢足球（最中意那个光头——Zidane）。
-
-欢迎交流~
+Welcome to contact with me~
 <!--[个人简历](/resume/resume.html)-->
 [Resume.pdf](/docs/resume.pdf)
 
